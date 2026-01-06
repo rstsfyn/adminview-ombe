@@ -805,7 +805,3 @@ body {
     align-items: center;
     margin-bottom: 20px;
 }
-
-#productModal .modal-content {
-    max-width: 600px;
-}
